@@ -11,12 +11,15 @@
 <br>
 
 <div align="center">
-  <img src="./cards/coding-title.svg" alt="What I'm coding." width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./cards/coding-title-dark.svg">
+    <img src="./cards/coding-title.svg" alt="What I'm coding." width="100%">
+  </picture>
 </div>
 
 <br>
 
-<div align="center"><a href="https://github.com/TouchAI-org/TouchAI"><img src="./cards/repo-touchai.svg" width="33.333%" alt="TouchAI: an agent on your desktop."></a><img src="./cards/repo-cloudplow.svg" width="33.333%" alt="CloudPlow: private greenhouse agents."><a href="https://serverless-devs.com/"><img src="./cards/repo-serverless.svg" width="33.333%" alt="Serverless Devs: official site for open-source serverless tooling."></a></div>
+<div align="center"><a href="https://github.com/TouchAI-org/TouchAI"><img src="./cards/repo-touchai.svg" width="33.333%" alt="TouchAI: an agent on your desktop."></a><a href="https://github.com/CloudPlow"><img src="./cards/repo-cloudplow.svg" width="33.333%" alt="CloudPlow: agents that tend the greenhouse, from sensing to action."></a><a href="https://serverless-devs.com/"><img src="./cards/repo-serverless.svg" width="33.333%" alt="Serverless Devs: official site for open-source serverless tooling."></a></div>
 
 <br>
 
